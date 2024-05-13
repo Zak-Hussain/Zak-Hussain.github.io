@@ -1,0 +1,10 @@
+name: "Zak-Hussain"
+title: "Zak Hussain"
+description: |
+  Zak Hussain
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+output: distill::distill_article

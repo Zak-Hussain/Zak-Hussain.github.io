@@ -1,0 +1,27 @@
+---
+title: "Zak Hussain"
+image: "me.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/zakir-a-s-hussain/"
+  - label: Google Scholar 
+    url: "https://scholar.google.com/citations?user=jTtsAv8AAAAJ&hl=en"
+  - label: GitHub
+    url: "https://github.com/Zak-Hussain"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+ 
+## Bio
+
+I am a researcher at the [Center for Cognitive and Decision Sciences](https://psychologie.unibas.ch/de/personen/zakir-hussain/about-me/) at the University of Basel, Switzerland, 
+and a visiting researcher at the [Center for Adaptive Rationality](https://www.mpib-berlin.mpg.de/person/127393/2549) at the Max Planck Institute for Human Development, Berlin, Germany.
+
+My research is at the intersection of cognitive science and machine learning, with a focus on the application of large language models (LLMs) to understand human cognition.  
+
+I am also involved in educating behavioral and social scientists on how they can apply LLMs in their own research. 
+
+## CV
+
+You can download my CV [here](https://drive.usercontent.google.com/u/0/uc?id=17ODmOl69DRyFw4TlaFnXDAns_82yO_sn&export=download).
