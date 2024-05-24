@@ -1,10 +1,12 @@
-name: "Zak-Hussain"
-title: "Zak Hussain"
+name: "."
+title: "Zak-Hussain"
 description: |
-  Zak Hussain
-output_dir: "_site"
+  Zak-Hussain
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
       href: index.html
+    - text: "About"
+      href: about.html
 output: distill::distill_article
