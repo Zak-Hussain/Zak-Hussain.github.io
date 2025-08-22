@@ -15,8 +15,7 @@ site: distill::distill_website
  
 ## Bio
 
-I am a researcher at the [Center for Cognitive and Decision Sciences](https://psychologie.unibas.ch/de/personen/zakir-hussain/about-me/) at the University of Basel, Switzerland, 
-and a visiting researcher at the [Center for Adaptive Rationality](https://www.mpib-berlin.mpg.de/person/127393/2549) at the Max Planck Institute for Human Development, Berlin, Germany.
+I am a researcher at the [Center for Cognitive and Decision Sciences](https://psychologie.unibas.ch/de/personen/zakir-hussain/about-me/) at the University of Basel, Switzerland.
 
 My research is at the intersection of cognitive science and machine learning, with a focus on the application of large language models (LLMs) to understand human cognition.  
 
